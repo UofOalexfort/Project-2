@@ -1,2 +1,7 @@
 # Project-2
-ain experience using git via your CLI and Visual Studio Code (VSCode) Source Control Gain experience writing and executing non-web server Node.js JavaScript code Practice refactoring JavaScript code
+The Goal of project two was to gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, as well as gain further experience writing and executing non-web server Node.js We also practiced refactoring JavaScript code.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[GitHub Link](https://github.com/UofOalexfort/Project-2)
+
