@@ -4,7 +4,7 @@ The Goal of project two was to gain experience using git via your CLI and Visual
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# We practiced the follow skills within this project:
+## We practiced the follow skills within this project:
 
 - Using git via the CLI 
 - Using git within VSCode
